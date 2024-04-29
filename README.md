@@ -5,7 +5,7 @@
 -Producers: These are a service that sends messages or data into the queue system.
 -Consumers: These are a service that listens to the queue and executes messages passed in it.
 
-## Prerequises : 
+## Prerequises
 - Installed RabbitMQ. Here is where you can get it in case you haven't yet: https://www.rabbitmq.com/download.html
 
 ## Usage
